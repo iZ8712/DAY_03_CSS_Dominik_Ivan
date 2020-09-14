@@ -1,0 +1,57 @@
+h1  {
+    
+    margin: 0;
+    padding: 0;
+    
+}
+
+p {
+    
+    margin: 0;
+    padding: 0;
+    
+}
+
+#Box {
+    
+    width: 35vh;
+    height: 100vh;
+    border: solid 1px;
+    border-color: black;
+
+}
+
+#Part01 {
+    
+    width: 35vh;
+    height: auto;
+    border-bottom: solid 10px;
+    border-color: black;
+
+}
+
+.reihe01 {
+    
+    width: 34vh;
+    height: auto;
+    border-bottom: solid 1px;
+    border-color: black;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+#zelle01 {
+    
+    
+    padding-right:  70px;
+    vertical-align: bottom;
+    
+}
+
+.zelle02 {
+    
+    width: 60px;
+    text-align: right;
+    vertical-align: bottom;
+}
